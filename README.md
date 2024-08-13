@@ -10,13 +10,13 @@ The focus of this analysis is a noticeable drop in engagement on Yammer, startin
 
 ## Project Files
 
-1. **Investigating a Drop in User Engagement.pdf**  
+1. **`Investigating a Drop in User Engagement.pdf`**  
    This PDF file explains the thought process behind the analysis, showcases figures, and presents conclusions drawn from the data.
 
-2. **Investigating a Drop in User Engagement - SQL Script.pdf**  
+2. **`Investigating a Drop in User Engagement - SQL Script.pdf`**  
    This PDF file contains the SQL script used for querying the data.
 
-3. **sqlScript.sql**  
+3. **`sqlScript.sql`**  
    This SQL script file includes the SQL code used for data analysis. 
 
 **Note:** The data used in this project is available only on the Mode website, and the SQL script must be executed there.
